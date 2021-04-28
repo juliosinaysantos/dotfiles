@@ -1,0 +1,9 @@
+[user]
+	name = Julio Sinay
+	email = juliosinaysantos@outlook.com
+[init]
+	defaultBranch = main
+[core]
+	editor = nvim
+[pull]
+	ff = only
