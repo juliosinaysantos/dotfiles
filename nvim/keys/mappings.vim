@@ -43,3 +43,5 @@ nnoremap <Leader>o o<Esc>^Da
 nnoremap <Leader>O O<Esc>^Da
 
 nnoremap <Leader>h :nohlsearch<CR>
+
+nnoremap <Leader>e :NERDTreeToggle<CR>

@@ -11,5 +11,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'vim-airline/vim-airline-themes'
     " ALE linter
     Plug 'dense-analysis/ale'
+    " NERDTree
+    Plug 'preservim/nerdtree'
 
 call plug#end()
