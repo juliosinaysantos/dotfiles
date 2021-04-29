@@ -38,6 +38,7 @@ set noswapfile
 set scrolloff=10
 set backspace=indent,eol,start
 set fileformat=unix
+set list
 
 au! BufWritePost $MYVIMRC source %      " auto source when writing to init.vm alternatively run :source $MYVIMRC
 

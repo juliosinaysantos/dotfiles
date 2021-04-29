@@ -9,5 +9,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Airline
     Plug 'vim-airline/vim-airline'
     Plug 'vim-airline/vim-airline-themes'
+    " ALE linter
+    Plug 'dense-analysis/ale'
 
 call plug#end()
