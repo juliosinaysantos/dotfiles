@@ -8,7 +8,7 @@ export ZSH="/Users/juliosinaysantos/.oh-my-zsh"
 ZSH_THEME="robbyrussell"
 
 # Plugins
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting golang)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting golang docker)
 
 ZSH_DISABLE_COMPFIX=true
 source $ZSH/oh-my-zsh.sh
